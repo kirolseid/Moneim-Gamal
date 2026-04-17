@@ -1241,7 +1241,7 @@ html {
 }
 
 .container-inner {
-    padding: 40px;
+    padding: 30px;
     border: 1px solid rgba(0, 0, 0, 0.05);
     border-radius: 20px;
     box-shadow: rgba(255, 255, 255, 0.025) 0px 0.362176px 0.651917px -1px inset, rgba(255, 255, 255, 0.036) 0px 3px 5.4px -2px inset;
@@ -1695,6 +1695,7 @@ ul.extra-skills li i {
 
 .project-content .sub-title {
     margin-bottom: 0;
+    margin-left: 10px;
     color: rgb(119, 119, 125);
 }
 

@@ -202,8 +202,8 @@ Version      : 1.0
 
 
     .about-content-part h2 {
-        font-size: 30px;
-        line-height: 40px;
+        font-size: 15px;
+        line-height: 35px;
         margin-bottom: 20px;
         margin-top: 30px;
     }
@@ -504,7 +504,7 @@ Version      : 1.0
 
 @media only screen and (max-width: 375px) {
     .about-image-part {
-        padding-left: 50px;
+        padding-left: 25px;
     }
 }
 
